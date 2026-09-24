@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/:path*",
+      "destination": "https://homelyhub-backend-gwhb.onrender.com/api/:path*"
+    }
+  ]
+}
